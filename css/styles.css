@@ -1,7 +1,34 @@
 header {
 	background-color: skyblue;
+	border: 2px solid black;
+	margin-bottom: 50px;
+
 }
 
 .content {
 	background-color: skyblue;
+	border: 2px black;
 }
+
+.aside {
+	float: left;
+	background-color: grey;
+}
+.content {
+	margin-left: 250px;
+	border: 2px solid black;
+	margin-bottom: 50px;
+	padding: 25px;
+}
+
+
+html {
+	background-color: gold;
+}
+
+
+.avatar	{
+	float: right;
+	margin-top: -100px;
+}
+
